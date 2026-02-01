@@ -16,4 +16,7 @@
 
 ## 実行結果
 
-- （後で追記）
+- 実施: `git init`（mainブランチ作成）、`origin` を `https://github.com/GodWaveHub/SampleProjectSpace.git` に設定
+- コミット: `Initial commit`（commit: b231835）
+- プッシュ: `main` を `origin/main` へ初回プッシュ（upstream設定）
+- 補足: 一部ファイルで改行コードの警告（LF→CRLF）が出たが、処理は成功
